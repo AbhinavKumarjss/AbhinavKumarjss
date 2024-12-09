@@ -32,7 +32,14 @@ I am Abhinav Kumar
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-</p
+</p>
+
+<h3>My GitHub contributions summary</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbhinavKumarjss&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhinavKumarjss&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
 <!--
 **AbhinavKumarjss/AbhinavKumarjss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
