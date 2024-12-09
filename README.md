@@ -1,6 +1,18 @@
-### Hi there 👋  
-I am Abhinav Kumar 
-<hr/>
+<h1 align='center'> Hi there 👋, I'm Abhinav Kumar  👩‍💻 </h1>
+
+<p align='center'>
+  I live in Noida , India
+</p>
+
+<p align='center'>
+  <a href="https://twitter.com/avi_arya_panwar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abhinav-kumar-071284256"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:aviaryapanwar@gmail.comm?subject=Olá%20Abhinav"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
+
+<hr>
 
 ![](https://komarev.com/ghpvc/?username=AbhinavKumarjss&color=red)
 
