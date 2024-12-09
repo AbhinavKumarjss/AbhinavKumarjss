@@ -1,6 +1,6 @@
 ### Hi there 👋  
 I am Abhinav Kumar ,
-<hr></hr>
+<hr/>
 ![](https://komarev.com/ghpvc/?username=AbhinavKumarjss&color=red)
 
 <!--
