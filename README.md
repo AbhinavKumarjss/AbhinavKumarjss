@@ -1,7 +1,7 @@
 # <div align="center">Hi there! 👋 I'm Abhinav Kumar</div>
 
 <div align="center">
-  <h3>🚀 Full Stack Developer | UI/UX Enthusiast | Cloud Technology Explorer</h3>
+  <h3>🚀 Full Stack Developer | UI/UX Enthusiast | AI/ML ENTHUSIAST</h3>
   <p>🏠 Based in Noida, India</p>
 </div>
 
